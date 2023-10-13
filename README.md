@@ -1,7 +1,7 @@
-# Zero Language:
+# Zero Boot:
 
 * For Ryjindael Programming Language..
-* Official Zero (Z Language) Repository..
+* Official Zero Boot (Zero / Ryjin Syntax) Repository..
 
 
 ### Copyright (2023):
